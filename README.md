@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Liez.
+# 👋 Hey, my name is Liez.
 
 Welcome to my GitHub profile! I'm passionate about all things data and constantly exploring the fascinating world of data analysis.
 
