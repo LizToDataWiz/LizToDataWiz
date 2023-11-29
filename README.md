@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm passionate about all things data and constantl
 
 ## 👀 What I'm Interested In
 
-I have a keen interest in data analysis, and I'm excited to dive into the data world to uncover insights, tell stories with data, and make informed decisions.
+I have a keen interest in SQL and Python and I am honing my skills on these domains.
 
 ## 🌱 Currently Pursuing
 
-I'm currently pursuing a career in data analysis. I'm always learning and enhancing my skills, working on projects, and looking for opportunities to apply my knowledge.
+I'm currently pursuing a career in data analytics. I'm always learning and enhancing my skills, working on projects, and looking for opportunities to apply my knowledge.
 
 ## 💞️ Looking to Collaborate
 
